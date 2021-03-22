@@ -14,10 +14,10 @@ const Alexa = require('ask-sdk-core');
 const STREAMS = [
   {
     token: '1',
-    url: 'https://streaming.radionomy.com/-ibizaglobalradio-?lang=en-US&appName=iTunes.m3u',
+    url: 'https://live.kissfm.ro:8443/kissfm.aacp',
     metadata: {
-      title: 'Stream One',
-      subtitle: 'A subtitle for stream one',
+      title: 'Kiss FM Radio',
+      subtitle: 'Kiss FM Radio Romania',
       art: {
         sources: [
           {
@@ -89,7 +89,7 @@ const AboutIntentHandler = {
       && handlerInput.requestEnvelope.request.intent.name === 'AboutIntent';
   },
   handle(handlerInput) {
-    const speechText = 'This is an audio streaming skill that was built with a free template from dabblelab.com. To continue listening say: resume, or say: stop to stop listening.';
+    const speechText = 'This is an audio streaming skill that plays Kiss FM Radio Romania. To continue listening say: resume, or say: stop to stop listening.';
 
     return handlerInput.responseBuilder
       .speak(speechText)
