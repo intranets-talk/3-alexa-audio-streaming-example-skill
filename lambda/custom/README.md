@@ -1,4 +1,4 @@
-# Getting Started
+# Alexa skill
 
-Visit https://dabblelab.com/templates for a video tutorial about using this still template. 
+kiss-fm-radio-streaming
 
