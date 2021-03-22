@@ -2,20 +2,20 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
-        "en-US": {
-          "summary": "An audio streaming example skill.",
+        "en-UK": {
+          "summary": "Kiss FM Radio - Romania.",
           "examplePhrases": [
-            "Alexa, open Template Three",
-            "Alexa, play Template Three",
-            "Alexa, ask Template Three to play"
+            "Alexa, open Kiss FM Radio",
+            "Alexa, play Kiss FM Radio",
+            "Alexa, ask Kiss FM Radio to play"
           ],
           "keywords": [
             "audio streaming",
             "music",
             "live music"
           ],
-          "name": "Template 3 - Audio Streaming Example",
-          "description": "A starter template for an Alexa audio streaming skill.",
+          "name": "Kiss FM Radio",
+          "description": "PLay Kiss FM Radio Romania",
           "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
           "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
         }
@@ -42,9 +42,9 @@
     "privacyAndCompliance": {
       "allowsPurchases": false,
       "locales": {
-        "en-US": {
-          "termsOfUseUrl": "http://dabblelab.com/terms",
-          "privacyPolicyUrl": "http://dabblelab.com/privacy"
+        "en-UK": {
+          "termsOfUseUrl": "https://github.com/intranets-talk/",
+          "privacyPolicyUrl": "https://github.com/intranets-talk/"
         }
       },
       "isExportCompliant": true,
