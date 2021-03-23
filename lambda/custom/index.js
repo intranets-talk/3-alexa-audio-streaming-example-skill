@@ -1,11 +1,7 @@
 /* eslint-disable no-mixed-operators */
 /*
-  Copyright (c) 2019 Dabble Lab
 
-  Template 3 - Alexa Audio Streaming Example Skill
-
-  For a tutorial on using this template please visit:
-  https://dabblelab.com/templates/3-alexa-audio-streaming-example-skill
+ Alexa Audio Streaming Skill
 
 */
 
