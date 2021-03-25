@@ -3,4 +3,4 @@ Alexa Skill Template
 
 ## Description
 
-Play Kiss FM Romania Radio
+Play custom radio stream
